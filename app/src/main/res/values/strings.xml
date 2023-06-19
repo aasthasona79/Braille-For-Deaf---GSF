@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">GSF</string>
+
+    <string name="welcome">WELCOME TO GSF, START WITH THE BUTTON BELOW</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">START</string>
+    <string name="action_bluetooth">Search for bluetooth devices</string>
+    <string name="enguk">UK</string>
+    <string name="engus">US</string>
+    <string name="radiobttns">SELECT ENG TYPE (necessary)</string>
+    <string name="SERVER">SERVER</string>
+    <string name="delaybut">SEND</string>
+    <string name="edit">Time in milli secs</string>
+    <string name="slangtext1">Enter word to be contracted</string>
+    <string name="slangtext2">Enter contraction</string>
+    <string name="slangswitch">Slang</string>
+    <string name="slangbutton">Enter</string>
+
+</resources>
